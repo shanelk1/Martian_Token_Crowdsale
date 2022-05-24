@@ -19,3 +19,6 @@ This is a simple token-crowdsale contract developed using solidity.
 - using the deployed KaseiCoinCrowdsale contract address you can access the buyTokens function to buy tokens , at this point use 1 or more new addresses loaded with Etheruem to make the purchase.
 - ***Note*** for the purpose of functionality the contract was programmed with a period of 5 minutes before the crowdsale ends.
 - you can also use the finalize function to end the crowdsale and then the tokens can be transfer.
+
+## Demo of how the contract works
+![Demo](Results/Contract_Demo.gif)
