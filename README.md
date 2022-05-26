@@ -1,8 +1,14 @@
 # Token_Crowdsale
 
-This is a simple token-crowdsale contract developed using solidity.
+## Overview of the Project
 
-## How to use the contract using Remix IDE
+This is a simple token-crowdsale contract developed using solidity. Creating a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
+
+The crowdsale contract is managing the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
+
+
+
+## Project steps using Remix IDE to deploy contract
 
 ### Initial Setup Required
 - Open the [Remix IDE](https://remix.ethereum.org/)
