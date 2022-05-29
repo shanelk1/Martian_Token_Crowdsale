@@ -27,4 +27,4 @@ The crowdsale contract is managing the entire crowdsale process, allowing users 
 - you can also use the finalize function to end the crowdsale and then the tokens can be transfer.
 
 ## Demo of how the contract works
-![Demo](Gif gif 2.gif)
+![Demo]
