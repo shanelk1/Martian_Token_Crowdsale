@@ -16,6 +16,8 @@ The crowdsale contract is managing the entire crowdsale process, allowing users 
 - Compile both the files using compile section  
 - Use a [Ganash](https://github.com/trufflesuite/ganache-ui/releases) One-Click blockchain tool to simulate the use of the contract or any Etheruem testnet of your choice.
 
+<img width="1062" alt="Ganach" src="https://user-images.githubusercontent.com/89318890/170892354-7869b07c-3fae-4bf6-b09d-bceb409c8232.png">
+
 ### Compile and Deploy 
 - After you compile you will notice three contracts in the deploy section.
 - Use the KaseiCoinCrowdsaleDeployer.sol file to deploy the contract initially so it can provide the Token and Crowdsale contract addresses to use in the next step.
@@ -27,4 +29,9 @@ The crowdsale contract is managing the entire crowdsale process, allowing users 
 - you can also use the finalize function to end the crowdsale and then the tokens can be transfer.
 
 ## Demo of how the contract works
-![Demo]
+<img width="1459" alt="remix deploy" src="https://user-images.githubusercontent.com/89318890/170892463-ebf47d61-69f3-4dde-8174-34e967cec024.png">
+
+
+
+- After you compile you will notice three contracts in the deploy section.
+<img width="521" alt="Kasei_contracts_3" src="https://user-images.githubusercontent.com/89318890/170892631-ea127522-b575-4ead-bb51-6468b18c14a7.png">
